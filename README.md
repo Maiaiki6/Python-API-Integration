@@ -22,9 +22,9 @@ This project showcases best practices for API integration in Python, including:
 
 ### Steps
 
-1. **Clone or navigate to the project directory:**
+1. **Clone the project directory:**
    ```bash
-   cd c:\users\Mustapha MaiAiki\documents\Python-API-Integration
+   https://github.com/Maiaiki6/Python-API-Integration
    ```
 
 2. **Install dependencies:**
